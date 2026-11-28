@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add pre-commit hooks for quality checks
-- Updated: 2026-11-26T14:00:01.391Z
+- resolve memory leak in event listener
+- Updated: 2026-11-28T14:00:00.842Z
